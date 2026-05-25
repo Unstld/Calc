@@ -1,2 +1,1 @@
-# Calc
-short for calculator
+√ stands for button that doesnt do anything
